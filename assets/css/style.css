@@ -1,0 +1,55 @@
+/* portfolio images*/
+.imgport {
+    width: 300px;
+    margin-bottom: 20px;
+}
+.imgtag {
+    position: absolute;
+    bottom: 20px;
+    width: 300px;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    background: darkgreen;
+    border-bottom: 0;
+}
+
+/* general */
+body {
+    background-image: url("../images/concrete_seamless.png");
+}
+h2 {
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+#logo {
+    background-color: blue;
+    color: white;
+    padding: 15px, 30px;
+    font-size: 50px;
+}
+.container {
+    margin-top: 15px;
+}
+.porthead {
+    margin: 5px 10px;
+    padding: 5px 90px;
+}
+
+/* header */
+#masthead {
+    background-color: darkgray;
+    border-bottom: 10px solid blue;
+}
+
+/* footer */
+footer {
+    background-color: darkgray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-top: 10px solid blue;
+}
